@@ -1,0 +1,5 @@
+{
+  "name": "Neon Space Defender",
+  "description": "Um jogo de tiro espacial frenético com três níveis de dificuldade, gestão de munição e tempo.",
+  "requestFramePermissions": []
+}
